@@ -77,6 +77,7 @@ public class Dirxper implements Serializable {
 
 	@Column(name="VARENIEC")
 	private String vareniec;
+	private String ubig;
 
 	public Dirxper() {
 	}
