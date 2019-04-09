@@ -79,6 +79,8 @@ public class Dirxper implements Serializable {
 	private String vareniec;
 	private String ubig;
 
+	
+	
 	public Dirxper() {
 	}
 
