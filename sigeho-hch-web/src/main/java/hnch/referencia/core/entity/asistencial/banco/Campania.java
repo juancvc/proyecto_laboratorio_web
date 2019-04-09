@@ -89,6 +89,7 @@ public class Campania implements Serializable {
 	private String nombSitu;
 	
 	private String nomLugCa;
+	private String  fech;
 	
 	public Campania() {
 	}
