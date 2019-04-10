@@ -203,6 +203,8 @@ public class Analisis_laboratorio implements Serializable {
 	private String PARENTES;
 	private String RESULTADO;
 	
+	private String codigoLab;
+	
 	
 	
 	public String getRESULTADO() {
